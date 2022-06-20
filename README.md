@@ -1,2 +1,2 @@
 # React-Query
-React Query Learning Project
+React Query Learning Project.
